@@ -62,7 +62,7 @@ export default function Section1() {
                     <Box sx={{ height: "300px", borderRadius: "10px" }}>
                         <img src={ monkey } width="100%"/>
                     </Box>
-                    <Box className="box-trending" sx={{textAlign:"left", padding:"10px"}}>
+                    <Box className="box-trending" sx={{textAlign:"left", padding:"10px", borderRadius: "20px"}}>
                         <Typography>y00ts DickButts ... #736</Typography>
                         <Box sx={{display:"flex", alignItems:"center"}}>
                             {/* <Box className="green-circle" width="20px" height="20px"></Box> */}
